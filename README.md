@@ -45,7 +45,7 @@ Você pode visitar o site [clicando aqui](https://darllinsonazvd.github.io/smart
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através (ainda em construção) [desse link](). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através (ainda em construção) [desse link](#). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## 📝 Licença
 
