@@ -39,7 +39,7 @@ Utilitários
 
 O projeto foi desenvolvido de acordo com os conhecimentos repassados no NLW #6 Misson: Origin da Rocketseat. 
 
-A SmartDesign é uma microempresa de tecnologia da região de Nova Floresta, Paraíba. A página é desenvolvida no formato One Page, totalemnte responsiva, pode ser visualizada em dispositivos pequenos (smartphones), médios (tablets) e grandes (computadores e notebooks). Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços e Produtos, Depoimentos, Contato e Footer.
+A SmartDesign é uma microempresa de tecnologia da região de Nova Floresta, Paraíba. A página é desenvolvida no formato One Page, totalmente responsiva, pode ser visualizada em dispositivos pequenos (smartphones), médios (tablets) e grandes (computadores e notebooks). Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços e Produtos, Depoimentos, Contato e Footer.
 
 Você pode visitar o site [clicando aqui](https://darllinsonazvd.github.io/smartdesign-site/)
 
