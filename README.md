@@ -43,10 +43,6 @@ A SmartDesign é uma microempresa de tecnologia da região de Nova Floresta, Par
 
 Você pode visitar o site [clicando aqui](https://darllinsonazvd.github.io/smartdesign-site/)
 
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto (ainda em construção) através [desse link](#). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
